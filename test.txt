@@ -4,3 +4,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ahari498/JS-Class-.git
 git push -u origin master
+
+
+second time.
+
+git add. 
+git commit -m"first commit"
+git push
