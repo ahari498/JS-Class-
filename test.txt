@@ -11,3 +11,7 @@ second time.
 git add. 
 git commit -m"first commit"
 git push
+
+Creating New branch'
+
+git checkout -b myhomepage
