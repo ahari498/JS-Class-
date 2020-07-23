@@ -20,4 +20,9 @@ git checkout -b myhomepage
 To clone\
 git clone url
 git pull (before every request)
+
+moving to different branch
+
+git checkout -b master
+
  

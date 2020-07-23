@@ -1,0 +1,78 @@
+Ecma Script
+Ecma 5
+Ecma 6
+Ecma 7
+> variable
+> Operations
+> condition
+> localstorage
+> sessionStorage
+> cookies
+> github
+> String literals
+> if else
+> ternery Operations
+> Date
+> switch
+> array
+> regex
+> loops
+> functions 
+> Es6
+    > lat, const
+    > maps,filter
+> Hoisting
+> Clousers
+> object 
+> Transpile
+> this 
+> Es6
+    > classes
+    > import export
+> package.JSON
+> npm
+> Prototypes
+> Call/Apply
+> DoM
+> Calc
+> Geolocation
+> Form validation
+> Event
+> currenyConvertor
+> promis
+> async await
+> JSON
+> Progress bar
+> screen
+////////////////////////
+> palindrome
+> fabonicci
+> factorial
+> Dynamic DropDown
+
+> Weather application
+> ajax
+> Baisc Jquery
+
+
+
+/////////GitHub////////
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/appgit.git
+git push -u origin master
+
+//////next all time////
+git add .
+git commit -m "first commit"
+git push
+
+git pull
+
+
+////package.json///
+**NodeJs must be install in system
+> Navigate to the folder
+> npm init -y
+> npm i @babel/core @babel/preset-env @babel/register
