@@ -15,3 +15,9 @@ git push
 Creating New branch'
 
 git checkout -b myhomepage
+
+
+To clone\
+git clone url
+git pull (before every request)
+ 
